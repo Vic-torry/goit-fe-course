@@ -1,1 +1,1 @@
-# goit-fe-dz
+# goit-fe-course
